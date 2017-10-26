@@ -8,8 +8,8 @@ class Projects(models.Model):
 	client = models.CharField(max_length=255)
 	industry = models.CharField(max_length=255)
 	tech_stack = models.CharField(max_length=255)
-	start_date = models.DateTimeField(auto_now=True, auto_now_add=False)
-	end_date = models.DateTimeField(auto_now=True, auto_now_add=False)
+	start_date = models.DateTimeField()
+	end_date = models.DateTimeField()
 
 	def __unicode__(self):
 
