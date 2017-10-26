@@ -1,1 +1,4 @@
-Using Django's Tastypie framework to expose a test model as an API
+In order to access the admin section of the app, go to https://dinerotest.herokuapp.com/admin/ and use the following credentials to login:
+
+username: u34497
+password: test1234
