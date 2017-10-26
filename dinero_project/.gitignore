@@ -2,4 +2,4 @@ venv
 *.pyc
 staticfiles
 .env
-settings/local.py
+dinero_project/dinero_project/settings/local.py
