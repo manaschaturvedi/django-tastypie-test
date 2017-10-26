@@ -1,0 +1,1 @@
+Using Django's Tastypie framework to expose a test model as an API
