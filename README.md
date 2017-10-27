@@ -1,5 +1,9 @@
 The main project name in the source code implementation is `dinero_project` which has one application `dinero_app`.
 
+
+Refer the `requirements.txt` file to see the entire list of packages installed in this project.
+
+
 In order to access the admin section of the app, go to https://dinerotest.herokuapp.com/admin/ and use the following credentials to login:
 
 username: u34497
